@@ -51,6 +51,7 @@ p {
 }
 
 a {
+    color: #999;
     text-decoration: none;
     transition: color .2s ease;
 }
