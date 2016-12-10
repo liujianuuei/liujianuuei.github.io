@@ -419,6 +419,9 @@ table {
   background: #3498db;
   color: #0e354f;
 }
+#homepage .quote {
+  color: #a0cfee;
+}
 /* line 10, ../../../../_assets/themes/minime/css/_homepage.scss */
 #homepage a {
   color: #a0cfee;
